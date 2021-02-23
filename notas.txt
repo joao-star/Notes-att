@@ -1,4 +1,4 @@
-Notas de atualização 22/02/2021:
+Notas de atualização 22/02/2021: adadadad
 Resolvemos alguns erros sobre o novo sistema de linguagens que estavam ocorrendo no injetor de .DLL
 
 Notas de atualização 22/02/2021:
