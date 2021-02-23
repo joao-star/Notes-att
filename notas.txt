@@ -1,2 +1,5 @@
-NOTAS DA ULTIMA ATUALIZAÇÃO:
+NOTAS DA ULTIMA ATUALIZAÇÃO 22/02/2021:
+Resolvemos alguns erros sobre o novo sistema de linguagens que estavam ocorrendo no injetor de .DLL
+
+NOTAS DA ULTIMA ATUALIZAÇÃO 22/02/2021:
 Foi introduzido o sistema de linguagens múltiplos. Por enquanto somente as línguas português e inglês disponíveis!
