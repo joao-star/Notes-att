@@ -1,2 +1,2 @@
 NOTAS DA ULTIMA ATUALIZAÇÃO:
-Foi introduzido o sistema de linguagens múltiplos. Por enquanto somente as línguas português e inglês dinsponíveis!
+Foi introduzido o sistema de linguagens múltiplos. Por enquanto somente as línguas português e inglês disponíveis!
